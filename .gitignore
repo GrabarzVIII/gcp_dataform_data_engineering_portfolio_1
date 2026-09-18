@@ -1,1 +1,4 @@
 node_modules/
+dataform_key.json
+dataform_keys/
+.df-credentials.json
