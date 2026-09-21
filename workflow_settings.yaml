@@ -1,4 +1,4 @@
 defaultProject: gcp-data-engineer-ecommerce
-defaultDataset: raw
+defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.52
